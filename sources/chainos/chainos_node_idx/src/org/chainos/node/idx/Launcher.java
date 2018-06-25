@@ -1,8 +1,8 @@
-package org.chainos.node.dataset;
+package org.chainos.node.idx;
 
-import org.chainos.node.dataset.application.Application;
-import org.chainos.node.dataset.deploy.DeployController;
-import org.chainos.node.dataset.deploy.config.ConfigDeployer;
+import org.chainos.node.idx.application.Application;
+import org.chainos.node.idx.deploy.DeployController;
+import org.chainos.node.idx.deploy.config.ConfigDeployer;
 import org.lyj.Lyj;
 import org.lyj.commons.logging.Logger;
 import org.lyj.commons.logging.LoggingRepository;

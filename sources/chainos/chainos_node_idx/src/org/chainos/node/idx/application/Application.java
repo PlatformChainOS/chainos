@@ -1,7 +1,7 @@
-package org.chainos.node.dataset.application;
+package org.chainos.node.idx.application;
 
-import org.chainos.node.dataset.IConstants;
-import org.chainos.node.dataset.deploy.config.ConfigHelper;
+import org.chainos.node.idx.IConstants;
+import org.chainos.node.idx.deploy.config.ConfigHelper;
 import org.lyj.commons.logging.Logger;
 import org.lyj.commons.logging.util.LoggingUtils;
 import org.lyj.commons.util.LocaleUtils;
@@ -10,7 +10,7 @@ import org.lyj.commons.util.PathUtils;
 /**
  * Application Server
  */
-public class ApplicationServer {
+public class Application {
 
 
     // ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ public class ApplicationServer {
     //                      c o n s t r u c t o r
     // ------------------------------------------------------------------------
 
-    public ApplicationServer(final boolean test_mode) {
+    public Application(final boolean test_mode) {
 
         LocaleUtils.setCurrent(IConstants.LOCALE);
 
