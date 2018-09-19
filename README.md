@@ -13,6 +13,13 @@ This project is experimental and is not ready for public use. We are working on 
 
 If you are a developer and want contribute to ChainOS, please contact [Gian Angelo Geminiani](https://gianangelogeminiani.me/).
 
+# Developers
+**Gian Angelo Geminiani** (Project Administrator) -
+Profile: [LinkedIn](https://www.linkedin.com/in/angelogeminiani/)
+
+**Antonio Di Pinto** (Contributor) - 
+Profile: [LinkedIn](https://www.linkedin.com/in/antoniodipinto/)
+
 # Architecture
 ![Achitecture](schema.001.png)
 
